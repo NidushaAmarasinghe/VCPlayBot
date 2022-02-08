@@ -45,7 +45,7 @@ async def start_(client: Client, message: Message):
             [ 
                 [
                     InlineKeyboardButton(
-                        "➕ Add me to your Group ➕", url=f"https://t.me/@ST_Music_Robot?startgroup=true")
+                        "➕ Add me to your Group ➕", url=f"https://t.me/ST_Music_Robot?startgroup=true")
                 ],[
                     InlineKeyboardButton(
                         "❓ How to use Me", callback_data="cbhowtouse")

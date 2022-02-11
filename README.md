@@ -5,7 +5,7 @@ The easiest way to deploy this Bot
 
 - Support Channel :- [SlapTap](http://t.me/SlapTap)
 
-- Support Group :- [Awesome Support](http://t.me/SlapTaps)
+- Support Group :- [Slap Deap](http://t.me/SlapTaps)
 
 
 ```
